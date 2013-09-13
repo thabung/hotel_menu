@@ -1,0 +1,23 @@
+
+						.item_details{
+								width:40%;
+								float:left;
+								margin-bottom:20px;
+								clear:both;
+						}
+						.item_row{
+							margin-top:20pz;
+							clear:both;
+							min-height:350px;
+							margin-left:50px;
+						
+						}
+						.image_div{
+								width:30%;
+								float:left;
+						}
+						.item_image{
+							width:250px;
+						
+						}
+					
